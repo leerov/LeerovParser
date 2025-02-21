@@ -3,7 +3,7 @@
     <mxGraphModel dx="1567" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="KJfv0gg_ucI4pZ0g48hR-99" value="Схема работы пользователя" parent="0" />
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-99" value="UX" visible="0" parent="0" />
         <mxCell id="KJfv0gg_ucI4pZ0g48hR-151" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="KJfv0gg_ucI4pZ0g48hR-99" source="KJfv0gg_ucI4pZ0g48hR-100" target="KJfv0gg_ucI4pZ0g48hR-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -247,7 +247,41 @@
         <mxCell id="KJfv0gg_ucI4pZ0g48hR-231" value="Возвращение на главную страницу" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-99">
           <mxGeometry x="-104.25999999999999" y="2541.9999999999995" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1" value="Общая схема" parent="0" />
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-234" value="UI" parent="0" />
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-259" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;flowAnimation=1;" edge="1" parent="KJfv0gg_ucI4pZ0g48hR-234" source="KJfv0gg_ucI4pZ0g48hR-255" target="KJfv0gg_ucI4pZ0g48hR-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-255" value="Веб-интерфейс" style="points=[[0.13,0.24,0],[0.5,0.2,0],[0.62,0,0],[0.87,0.24,0],[0.95,0.55,0],[0.96,0.95,0],[0.5,1,0],[0.04,0.95,0],[0.05,0.55,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.joystick_keyboard;fillColor=#005073;strokeColor=none;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-234">
+          <mxGeometry x="110" y="30" width="72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-261" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;flowAnimation=1;" edge="1" parent="KJfv0gg_ucI4pZ0g48hR-234" source="KJfv0gg_ucI4pZ0g48hR-258" target="KJfv0gg_ucI4pZ0g48hR-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-263" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;flowAnimation=1;" edge="1" parent="KJfv0gg_ucI4pZ0g48hR-234" source="KJfv0gg_ucI4pZ0g48hR-258" target="KJfv0gg_ucI4pZ0g48hR-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-265" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;flowAnimation=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KJfv0gg_ucI4pZ0g48hR-234" source="KJfv0gg_ucI4pZ0g48hR-258" target="KJfv0gg_ucI4pZ0g48hR-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-268" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;endArrow=classic;flowAnimation=1;" edge="1" parent="KJfv0gg_ucI4pZ0g48hR-234" source="KJfv0gg_ucI4pZ0g48hR-258" target="KJfv0gg_ucI4pZ0g48hR-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-258" value="Главная страница" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-234">
+          <mxGeometry x="86" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-260" value="Страница создания конфигурации" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-234">
+          <mxGeometry x="-113" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-262" value="Перечень имеющихся конфигураций" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-234">
+          <mxGeometry x="286" y="126" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-264" value="Настройки" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;shadow=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-234">
+          <mxGeometry x="-113" y="246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJfv0gg_ucI4pZ0g48hR-267" value="Гайд" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBorderColor=none;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="KJfv0gg_ucI4pZ0g48hR-234">
+          <mxGeometry x="286" y="246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1" value="Общая схема" parent="0" visible="0" />
         <UserObject label="Пользователь" tags="Готово" id="KJfv0gg_ucI4pZ0g48hR-12">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
             <mxGeometry x="40" y="140" width="30" height="60" as="geometry" />
